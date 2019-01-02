@@ -1,4 +1,5 @@
-Customer-Resource-Management(CRM)
+<b>Customer-Resource-Management(CRM)</b>
+
 This is a simple app tried by me using spring boot, spring mvc ,jsp and spring rest services. This web app uses the best technology of html, css and bootstrap as the frontend and spring , hibernate and MYSQL 5 as the backend.
 
 CONFIGURING DATABASE : -
