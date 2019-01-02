@@ -12,18 +12,18 @@ For my convenient I  have used eclipse as the IDE , you can use any IDE for your
 
 #Screen Shot
 
-<img src="screenshot/1.png" >
-<img src="screenshot/2.png" >
-<img src="screenshot/3.png" >
-<img src="screenshot/4.png" >
-<img src="screenshot/5.png" >
-<img src="screenshot/6.png" >
-<img src="screenshot/7.png" >
-<img src="screenshot/8.png" >
-<img src="screenshot/9.png" >
-<img src="screenshot/10.png" >
-<img src="screenshot/11.png" >
-<img src="screenshot/12.png" >
+<img src="screenshot/1.PNG" >
+<img src="screenshot/2.PNG" >
+<img src="screenshot/3.PNG" >
+<img src="screenshot/4.PNG" >
+<img src="screenshot/5.PNG" >
+<img src="screenshot/6.PNG" >
+<img src="screenshot/7.PNG" >
+<img src="screenshot/8.PNG" >
+<img src="screenshot/9.PNG" >
+<img src="screenshot/10.PNG" >
+<img src="screenshot/11.PNG" >
+<img src="screenshot/12.PNG" >
 
 #Rest Web Services
 
@@ -43,12 +43,12 @@ The postman is used to use REST over HTTP
 
 
 
-<img src="screenshot/13.png" >
-<img src="screenshot/14.png" >
-<img src="screenshot/15.png" >
-<img src="screenshot/16.png" >
-<img src="screenshot/17.png" >
-<img src="screenshot/18.png" >
+<img src="screenshot/13.PNG " >
+<img src="screenshot/14.PNG " >
+<img src="screenshot/15.PNG " >
+<img src="screenshot/16.PNG " >
+<img src="screenshot/17.PNG " >
+<img src="screenshot/18.PNG" >
 
 
 
