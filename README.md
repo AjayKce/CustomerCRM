@@ -3,7 +3,7 @@
 This is a simple app tried by me using spring boot, spring mvc ,jsp and spring rest services. This web app uses the best technology of html, css and bootstrap as the frontend and spring , hibernate and Postgresql as the backend.
 
 ### Test Link
-<a href="https://customercrm.herokuapp.com/">Click Here</a>
+<a href="http://customercrm.herokuapp.com/">Click Here</a>
 
 # CONFIGURING DATABASE
 
