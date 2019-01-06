@@ -28,13 +28,13 @@ For my convenient I  have used eclipse as the IDE , you can use any IDE for your
 <img src="screenshot/11.PNG" >
 <img src="screenshot/12.PNG" >
 
-#Rest Web Services
+# Rest Web Services
 
 REST stands for Representational State Transfer, which is an architectural style for networked hypermedia applications, it is primarily used to build Web services that are lightweight, maintainable, and scalable. A service based on REST is called a RESTful service.
 
 Spring uses Thompson project for converting POJO to JSON and vice versa
 
-#client tool -------> POSTMAN
+### client tool -------> POSTMAN
 
 The postman is used to use REST over HTTP
 
