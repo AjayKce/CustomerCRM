@@ -38,16 +38,20 @@ Spring uses Thompson project for converting POJO to JSON and vice versa
 
 The postman is used to use REST over HTTP
 
-/api/customers ------------>(POST) Create a new customer
+##### /api/customers ------------>(POST) Create a new customer
+http://customercrm.herokuapp.com/api/customers [POST]
 
-/api/customers ------------>(GET) Read a list of customers
+##### /api/customers ------------>(GET) Read a list of customers
+http://customercrm.herokuapp.com/api/customers [GET]
 
-/api/customers/{customerId} ----------->(GET) Read a single customer
+##### /api/customers/{customerId} ----------->(GET) Read a single customer
+http://customercrm.herokuapp.com/api/customers/{customerId} [GET]
 
-/api/customers --------------> (PUT)Update an Existing customer
+##### /api/customers --------------> (PUT)Update an Existing customer
+http://customercrm.herokuapp.com/api/customers/ [PUT]
 
-/api/customers/{customerId} -------------> (DELETE)Delete customer
-
+##### /api/customers/{customerId} -------------> (DELETE)Delete customer
+http://customercrm.herokuapp.com/api/customers/{customerId} [DELETE]
 
 
 <img src="screenshot/13.PNG " >
